@@ -1,0 +1,42 @@
+body{
+    background:white; 
+    font: Arial;
+}
+table{
+    background-color: white;
+    width: 10px;
+    margin:auto;
+    width: 600px;
+    text-align: center;
+    border-collapse: collapse;
+}
+th, td{
+padding: 20px;
+
+
+}
+thead{
+    background: #67B0AA;
+    border-bottom: 5px  black;
+    color:white;
+}
+
+
+
+input[type="submit"]{
+    margin-bottom:  0;
+    
+    color: #fff;
+    border:none;
+ 
+    }
+input[type="submit"]:hover{
+    margin-bottom:  0;
+   
+    color: #fff;
+    border:none;
+    cursor:pointer;
+  
+
+    
+    }
